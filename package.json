@@ -1,0 +1,27 @@
+{
+  "name": "oc4_banktransferfee",
+  "version": "1.0.0",
+  "description": "OpenCart v4 Bank Transfer fee extension",
+  "main": "index.js",
+  "scripts": {
+    "compress": "node compress.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "opencart",
+    "oc",
+    "playfulsparkle",
+    "bank transfer",
+    "fee"
+  ],
+  "author": "Zsolt Oroszlány <zsolt.oroszlany@playfulsparkle.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "fs": "^0.0.1-security"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/playfulsparkle/oc4_banktransferfee.git"
+  }
+}

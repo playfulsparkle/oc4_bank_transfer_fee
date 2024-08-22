@@ -16,6 +16,10 @@ The **Bank Transfer fee extension** automatically adds a configurable fee to the
 
 ## Installation Instructions
 
+### Important note
+
+OpenCart requires all extension package filenames to end in the `.ocmod.zip` format for successful installation. Although the `oc4_banktransferfee` extension is not technically an `OCMOD` (since it contains all the required files to work properly without any `OCMOD` modifications), the package still needs to follow this naming convention to ensure compatibility with OpenCart's installer.
+
 ### 1. Download the Extension
 Download the latest **Bank Transfer fee** release from this repository.
 
@@ -53,7 +57,3 @@ This project is licensed under the GPL-3.0 license. See the [LICENSE](./LICENSE)
 ## Contributing
 
 We welcome contributions! If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
-
----
-
-Thank you for choosing these extensions to improve your OpenCart store's checkout experience! 🎉

@@ -2,7 +2,7 @@ const fs = require("fs");
 const archiver = require("archiver");
 const path = require("path");
 
-const output = fs.createWriteStream(__dirname + "/banktransferfee.ocmod.zip");
+const output = fs.createWriteStream(__dirname + "/dist/banktransferfee.ocmod.zip");
 
 const archive = archiver("zip", {
   zlib: { level: 4 },
@@ -27,8 +27,8 @@ archive.on("error", function (err) {
 
 archive.pipe(output);
 
-archive.directory("admin/", "admin");
-archive.directory("catalog/", "catalog");
-archive.file("install.json", { name: "install.json" });
+archive.directory("src/admin/", "admin");
+archive.directory("src/catalog/", "catalog");
+archive.file("src/install.json", { name: "install.json" });
 
 archive.finalize();

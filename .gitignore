@@ -4,7 +4,7 @@
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
 # General
-*.zip
+[Dd]ist/*.zip
 
 # User-specific files
 *.rsuser

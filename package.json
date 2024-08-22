@@ -14,7 +14,7 @@
     "bank transfer",
     "fee"
   ],
-  "author": "Zsolt Oroszlány <zsolt.oroszlany@playfulsparkle.com>",
+  "author": "zsoltoroszlany82 <zsolt.oroszlany@playfulsparkle.com>",
   "license": "GPL-3.0",
   "dependencies": {
     "archiver": "^7.0.1",

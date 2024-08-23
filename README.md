@@ -26,7 +26,7 @@ Download the latest **Bank Transfer fee** release from this repository.
 ### 2. Upload the Extension Files
 1. Log in to your OpenCart admin panel.
 2. Navigate to `Extensions > Installer`.
-3. Click the `Upload` button and upload the `.ocmod.zip` file.
+3. Click the `Upload` button and upload the `banktransferfee.ocmod.zip` file.
 
 ### 3. Install the Extension
 4. Once uploaded click on the green `Install` button

@@ -40,6 +40,8 @@ Download the latest **Bank Transfer fee** release from this repository.
 3. Enter the amount, and setup other settings as per your store's requirements.
 4. Save your configuration.
 
+[Upload, install and configure extension](https://github.com/user-attachments/assets/e2b5c3ea-b702-4051-8153-b84a4c5b40a1)
+
 ---
 
 ## Support & Feedback

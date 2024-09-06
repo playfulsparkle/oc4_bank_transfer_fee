@@ -1,0 +1,38 @@
+OpenCart v4 Bank transfer fee
+
+Streamline your payment processing with the Bank Transfer fee extension for OpenCart v4. This extension automatically adds a fee to the order total when customers select the "Bank Transfer" payment option during checkout.
+
+For more information, visit the extension GitHub page at https://github.com/playfulsparkle/oc4_banktransferfee.git.
+
+Demo frontend - https://demo.playfulsparkle.com/opencart4/
+Demo backend - https://demo.playfulsparkle.com/opencart4/admin/
+
+Key Features
+
+* Automatically adds a customizable fee when customers choose Bank Transfer at checkout.
+* Choose between different fee configurations: fixed amounts to be added to the total order cost.
+* Effortless setup and management through the OpenCart admin interface.
+* Fully compatible with OpenCart versions 4.x.
+
+Installation Guide
+
+1. Download the "OpenCart v4 Bank transfer fee" Extension Package.
+2. Download the latest version of the Bank Transfer fee extension from the link provided on this page.
+3. Upload the Extension Files:
+    1. Log in to your OpenCart admin panel.
+    2. Navigate to Extensions > Installer.
+    3. Click the "Upload" button and upload the file banktransferfee.ocmod.zip.
+4. Install the Extension:
+    1. After uploading, click the green "Install" button.
+    2. Go to Extensions and select Order Totals from the dropdown menu.
+    3. Locate the "Bank Transfer Fee" extension in the list.
+    4. Click the green "Install" button to activate it.
+5. Configure the Extension:
+    1. Stay on the Extensions page with Order Totals selected.
+    2. Click the "Edit" button next to the installed Bank Transfer fee extension.
+    3. Input your preferred fee amount and adjust other settings to suit your store’s requirements.
+    4. Save your configuration.
+
+Support & Feedback
+
+For support or any inquiries regarding the extension, feel free to open an issue on this repository or reach out via email at support@playfulsparkle.com.

@@ -4,8 +4,7 @@
   "description": "OpenCart v4 Bank Transfer fee extension",
   "main": "index.js",
   "scripts": {
-    "compress": "node compress.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "compress": "node compress.js"
   },
   "keywords": [
     "opencart",
@@ -15,7 +14,7 @@
     "fee"
   ],
   "author": "zsoltoroszlany82 <zsolt.oroszlany@playfulsparkle.com>",
-  "license": "GPL-3.0",
+  "license": "GPL",
   "dependencies": {
     "archiver": "^7.0.1",
     "fs": "^0.0.1-security"

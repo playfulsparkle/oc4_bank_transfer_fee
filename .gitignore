@@ -5,6 +5,7 @@
 
 # General
 [Dd]ist/*.zip
+package-lock.json
 
 # User-specific files
 *.rsuser

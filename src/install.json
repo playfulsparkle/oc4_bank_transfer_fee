@@ -1,8 +1,8 @@
 {
-    "name": "Bank Transfer fee",
-    "code": "bank_transfer_fee",
+    "name": "Playful Sparkle - Bank Transfer Fee",
+    "code": "ps_bank_transfer_fee",
     "license": "GPL",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Playful Sparkle",
     "link": "https://github.com/playfulsparkle/oc4_banktransferfee.git"
   }

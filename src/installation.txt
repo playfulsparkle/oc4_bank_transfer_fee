@@ -2,7 +2,7 @@ Playful Sparkle - Bank Transfer Fee
 
 Streamline your payment processing with the Playful Sparkle - Bank Transfer Fee. This extension automatically adds a fee to the order total when customers select the "Bank Transfer" payment option during checkout.
 
-For more information, visit the extension GitHub page at https://github.com/playfulsparkle/ps_bank_transfer_fee.git.
+For more information, visit the extension GitHub page at https://github.com/playfulsparkle/oc4_bank_transfer_fee.git.
 
 Demo frontend - https://demo.playfulsparkle.com/opencart4/
 Demo backend - https://demo.playfulsparkle.com/opencart4/admin/

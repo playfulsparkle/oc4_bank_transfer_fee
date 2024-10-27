@@ -18,7 +18,7 @@
       <div class="card-header"><i class="fa-solid fa-pencil"></i> {{ text_edit }}</div>
       <div class="card-body">
         <form id="form-total" action="{{ save }}" method="post" data-oc-toggle="ajax">
-          <div class="row mb-3">
+          <div class="row mb-3 required">
             <label for="input-fee" class="col-sm-2 col-form-label">{{ entry_fee }}</label>
             <div class="col-sm-10">
               <input type="text" name="total_ps_bank_transfer_fee_fee" value="{{ total_ps_bank_transfer_fee_fee }}" placeholder="{{ entry_fee }}" id="input-fee" class="form-control"/>

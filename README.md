@@ -1,12 +1,12 @@
-# Playful Sparkle - Bank Transfer Fee
+# Playful Sparkle - Bank Transfer fee for OpenCart 4
 
-The **Playful Sparkle - Bank Transfer Fee** automatically adds a configurable fee to the total order cost during checkout when the customer selects **Bank Transfer** as the payment method.
+The **Playful Sparkle - Bank Transfer fee** automatically adds a configurable fee to the total order cost during checkout when the customer selects **Bank Transfer** as the payment method.
 
 ---
 
 ## Features
 
-### Playful Sparkle - Bank Transfer Fee
+### Playful Sparkle - Bank Transfer fee
 - Adds a customizable fee to the total when **Bank Transfer** is selected during checkout.
 - Configurable fee options: fixed amount to be added to the total order value.
 - Easy setup via the OpenCart interface.
@@ -21,7 +21,7 @@ The **Playful Sparkle - Bank Transfer Fee** automatically adds a configurable fe
 OpenCart requires all extension package filenames to end in the `.ocmod.zip` format for successful installation. Although the `ps_bank_transfer_fee` extension is not technically an `OCMOD` (since it contains all the required files to work properly without any `OCMOD` modifications), the package still needs to follow this naming convention to ensure compatibility with OpenCart's installer.
 
 ### 1. Download the Extension
-Download the latest **Playful Sparkle - Bank Transfer Fee** release from this repository.
+Download the latest **Playful Sparkle - Bank Transfer fee** release from this repository.
 
 ### 2. Upload the Extension Files
 1. Log in to your OpenCart admin panel.
@@ -31,7 +31,7 @@ Download the latest **Playful Sparkle - Bank Transfer Fee** release from this re
 ### 3. Install the Extension
 4. Once uploaded click on the green `Install` button
 1. Then navigate  to `Extensions` and select `Order Totals` from the dropdown.
-2. Locate the **Playful Sparkle - Bank Transfer Fee** extension in the list.
+2. Locate the **Playful Sparkle - Bank Transfer fee** extension in the list.
 3. Click on the green `Install` button.
 
 ### 4. Configure the Extension
@@ -44,7 +44,7 @@ Download the latest **Playful Sparkle - Bank Transfer Fee** release from this re
 
 ---
 
-## Support & Feedback
+## Support & feedback
 
 For support or any inquiries regarding the extensions, feel free to open an issue on this repository or reach out via email at `support@playfulsparkle.com`.
 

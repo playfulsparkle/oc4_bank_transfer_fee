@@ -1,6 +1,6 @@
-Playful Sparkle - Bank Transfer Fee
+Playful Sparkle - Bank Transfer fee
 
-Streamline your payment processing with the Playful Sparkle - Bank Transfer Fee. This extension automatically adds a fee to the order total when customers select the "Bank Transfer" payment option during checkout.
+Streamline your payment processing with the Playful Sparkle - Bank Transfer fee extension for OpenCart 4.x. This extension automatically adds a fee to the order total when customers select the "Bank Transfer" payment option during checkout.
 
 For more information, visit the extension GitHub page at https://github.com/playfulsparkle/oc4_bank_transfer_fee.git.
 
@@ -16,8 +16,8 @@ Key Features
 
 Installation Guide
 
-1. Download the "Playful Sparkle - Bank Transfer Fee" Extension Package.
-2. Download the latest version of the Playful Sparkle - Bank Transfer Fee extension from the link provided on this page.
+1. Download the "Playful Sparkle - Bank Transfer fee" Extension Package.
+2. Download the latest version of the Playful Sparkle - Bank Transfer fee extension from the link provided on this page.
 3. Upload the Extension Files:
     1. Log in to your OpenCart admin panel.
     2. Navigate to Extensions > Installer.
@@ -25,11 +25,11 @@ Installation Guide
 4. Install the Extension:
     1. After uploading, click the green "Install" button.
     2. Go to Extensions and select Order Totals from the dropdown menu.
-    3. Locate the "Playful Sparkle - Bank Transfer Fee" extension in the list.
+    3. Locate the "Playful Sparkle - Bank Transfer fee" extension in the list.
     4. Click the green "Install" button to activate it.
 5. Configure the Extension:
     1. Stay on the Extensions page with Order Totals selected.
-    2. Click the "Edit" button next to the installed Playful Sparkle - Bank Transfer Fee extension.
+    2. Click the "Edit" button next to the installed Playful Sparkle - Bank Transfer fee extension.
     3. Input your preferred fee amount and adjust other settings to suit your store’s requirements.
     4. Save your configuration.
 

@@ -8,6 +8,16 @@ namespace Opencart\Admin\Controller\Extension\PSBankTransferFee\Total;
 class PSBankTransferFee extends \Opencart\System\Engine\Controller
 {
     /**
+     * @var string The support email address.
+     */
+    const EXTENSION_EMAIL = 'support@playfulsparkle.com';
+
+    /**
+     * @var string The documentation URL for the extension.
+     */
+    const EXTENSION_DOC = 'https://github.com/playfulsparkle/oc4_bank_transfer_fee.git';
+
+    /**
      * @return void
      */
     public function index(): void
@@ -45,6 +55,8 @@ class PSBankTransferFee extends \Opencart\System\Engine\Controller
 
         $data['total_ps_bank_transfer_fee_status'] = $this->config->get('total_ps_bank_transfer_fee_status');
         $data['total_ps_bank_transfer_fee_sort_order'] = $this->config->get('total_ps_bank_transfer_fee_sort_order');
+
+        $data['text_contact'] = sprintf($this->language->get('text_contact'), self::EXTENSION_EMAIL, self::EXTENSION_EMAIL, self::EXTENSION_DOC);
 
         $data['header'] = $this->load->controller('common/header');
         $data['column_left'] = $this->load->controller('common/column_left');

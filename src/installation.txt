@@ -13,6 +13,17 @@ Key Features
 * Choose between different fee configurations: fixed amounts to be added to the total order cost.
 * Effortless setup and management through the OpenCart admin interface.
 * Fully compatible with OpenCart 4.x.
+* Multilingual Support: The extension is available in the following languages:
+  * Čeština (cs-cz)
+  * Deutsch (de-de)
+  * English (GB) (en-gb)
+  * English (US) (en-us)
+  * Español (es-es)
+  * Français (fr-fr)
+  * Magyar (hu-hu)
+  * Italiano (it-it)
+  * Русский (ru-ru)
+  * Slovenčina (sk-sk)
 
 Installation Guide
 

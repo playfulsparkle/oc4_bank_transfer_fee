@@ -11,6 +11,17 @@ The **Playful Sparkle - Bank Transfer fee** automatically adds a configurable fe
 - Configurable fee options: fixed amount to be added to the total order value.
 - Easy setup via the OpenCart interface.
 - Compatible with OpenCart 4.x.
+- **Multilingual Support**: The extension is available in the following languages:
+  - Čeština (cs-cz)
+  - Deutsch (de-de)
+  - English (GB) (en-gb)
+  - English (US) (en-us)
+  - Español (es-es)
+  - Français (fr-fr)
+  - Magyar (hu-hu)
+  - Italiano (it-it)
+  - Русский (ru-ru)
+  - Slovenčina (sk-sk)
 
 ---
 

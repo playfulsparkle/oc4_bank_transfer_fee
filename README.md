@@ -14,18 +14,6 @@ The **Playful Sparkle - Bank Transfer fee** extension for OpenCart 4.x+ allows s
 
 ## Installation Instructions
 
-### Installation Instructions for OpenCart 3.x+
-
-1. Download the latest version from this repository.
-2. Log in to your OpenCart admin panel.
-3. Navigate to `Extensions > Installer`.
-4. Click the `Upload` button and upload the `ps_bank_transfer_fee.ocmod.zip` file.
-5. Navigate to `Extensions > Extensions` and select `Order Totals` from the `Choose the extension type` dropdown list.
-6. Locate the extension in the `Order Totals` list and click the `Install` button.
-7. Click the `Edit` button, configure the extension parameters, and click the `Save` button to save your settings.
-
-### Installation Instructions for OpenCart 4.x+
-
 1. Download the latest version from this repository.
 2. Log in to your OpenCart admin panel.
 3. Navigate to `Extensions > Installer`.

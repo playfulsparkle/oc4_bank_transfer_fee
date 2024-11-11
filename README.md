@@ -1,68 +1,54 @@
 # Playful Sparkle - Bank Transfer fee for OpenCart 4
 
-The **Playful Sparkle - Bank Transfer fee** automatically adds a configurable fee to the total order cost during checkout when the customer selects **Bank Transfer** as the payment method.
+The **Playful Sparkle - Bank Transfer fee** extension for OpenCart 4.x+ allows store owners to easily add a customizable fee when customers choose **Bank Transfer** as their payment method. Designed to streamline the payment process, it ensures accurate handling of bank transfer fees directly within checkout. This extension helps cover transaction costs for businesses, enhancing the overall checkout experience by transparently including the fee where applicable. Perfect for e-commerce businesses of all sizes, it requires no technical expertise to set up and integrates seamlessly with OpenCart 4.x+.
 
 ---
 
 ## Features
 
-### Playful Sparkle - Bank Transfer fee
-- Adds a customizable fee to the total when **Bank Transfer** is selected during checkout.
-- Configurable fee options: fixed amount to be added to the total order value.
-- Easy setup via the OpenCart interface.
-- Compatible with OpenCart 4.x.
-- **Multilingual Support**: The extension is available in the following languages:
-  - Čeština (cs-cz)
-  - Deutsch (de-de)
-  - English (GB) (en-gb)
-  - English (US) (en-us)
-  - Español (es-es)
-  - Français (fr-fr)
-  - Magyar (hu-hu)
-  - Italiano (it-it)
-  - Русский (ru-ru)
-  - Slovenčina (sk-sk)
+- **Configurable fee options**: A fixed amount can be added to the total order value.
+- **Compatibility**: Integrates smoothly with OpenCart 4.x+, supporting a range of online store setups.
+- **Multilingual Support**: Ready for international use with languages including Čeština (cs-cz), Deutsch (de-de), English (GB) (en-gb), English (US) (en-us), Español (es-es), Français (fr-fr), Magyar (hu-hu), Italiano (it-it), Русский (ru-ru), and Slovenčina (sk-sk).
 
 ---
 
 ## Installation Instructions
 
-### 1. Download the Extension
-Download the latest **Playful Sparkle - Bank Transfer fee** release from this repository.
+### Installation Instructions for OpenCart 3.x+
 
-### 2. Upload the Extension Files
-1. Log in to your OpenCart admin panel.
-2. Navigate to `Extensions > Installer`.
-3. Click the `Upload` button and upload the `ps_bank_transfer_fee.ocmod.zip` file.
+1. Download the latest version from this repository.
+2. Log in to your OpenCart admin panel.
+3. Navigate to `Extensions > Installer`.
+4. Click the `Upload` button and upload the `ps_bank_transfer_fee.ocmod.zip` file.
+5. Navigate to `Extensions > Extensions` and select `Order Totals` from the `Choose the extension type` dropdown list.
+6. Locate the extension in the `Order Totals` list and click the `Install` button.
+7. Click the `Edit` button, configure the extension parameters, and click the `Save` button to save your settings.
 
-### 3. Install the Extension
-4. Once uploaded click on the green `Install` button
-1. Then navigate  to `Extensions` and select `Order Totals` from the dropdown.
-2. Locate the **Playful Sparkle - Bank Transfer fee** extension in the list.
-3. Click on the green `Install` button.
+### Installation Instructions for OpenCart 4.x+
 
-### 4. Configure the Extension
-1. After installation, remain in the `Extensions` page and ensure `Order Totals` is selected from the dropdown.
-2. Click the `Edit` button next to the installed extension.
-3. Enter the amount, and setup other settings as per your store's requirements.
-4. Save your configuration.
-
-[Upload, install and configure extension](https://github.com/user-attachments/assets/e2b5c3ea-b702-4051-8153-b84a4c5b40a1)
+1. Download the latest version from this repository.
+2. Log in to your OpenCart admin panel.
+3. Navigate to `Extensions > Installer`.
+4. Click the `Upload` button and upload the `ps_bank_transfer_fee.ocmod.zip` file.
+5. Locate the extension in the `Installed Extensions` list and click the `Install` button.
+6. Navigate to `Extensions > Extensions` and select `Order Totals` from the `Choose the extension type` dropdown list.
+7. Locate the extension in the `Order Totals` list and click the `Install` button.
+8. Click the `Edit` button, configure the extension parameters, and click the `Save` button to save your settings.
 
 ---
 
-## Support & Feedback
+## Support & Inquiries
 
-For support or any inquiries regarding the extension, feel free to open an issue on this repository or reach out via email at [support@playfulsparkle.com](mailto:support@playfulsparkle.com).
+For assistance or inquiries related to this extension, please open an issue on this repository or contact us via email at [support@playfulsparkle.com](mailto:support@playfulsparkle.com).
 
 ---
 
 ## License
 
-This project is licensed under the GPL-3.0 license. See the [LICENSE](./LICENSE) file for more information.
+This project is distributed under the GPL-3.0 license. Please refer to the [LICENSE](./LICENSE) file for further details.
 
 ---
 
 ## Contributing
 
-We welcome contributions! If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
+We encourage contributions from the community. To contribute, please fork the repository and submit a pull request with your proposed changes.

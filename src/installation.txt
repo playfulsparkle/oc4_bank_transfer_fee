@@ -17,7 +17,7 @@ Installation Instructions
 
 Installation Instructions for OpenCart 3.x+
 
-1. Download the latest version from this repository.
+1. Download the latest version from the OpenCart Marketplace.
 2. Log in to your OpenCart admin panel.
 3. Navigate to Extensions > Installer.
 4. Click the Upload button and upload the ps_bank_transfer_fee.ocmod.zip file.
@@ -27,7 +27,7 @@ Installation Instructions for OpenCart 3.x+
 
 Installation Instructions for OpenCart 4.x+
 
-1. Download the latest version from this repository.
+1. Download the latest version from the OpenCart Marketplace.
 2. Log in to your OpenCart admin panel.
 3. Navigate to Extensions > Installer.
 4. Click the Upload button and upload the ps_bank_transfer_fee.ocmod.zip file.

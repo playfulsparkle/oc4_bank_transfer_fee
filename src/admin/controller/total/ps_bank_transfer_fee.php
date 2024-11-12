@@ -47,14 +47,14 @@ class PSBankTransferFee extends \Opencart\System\Engine\Controller
         $data['back'] = $this->url->link('marketplace/extension', 'user_token=' . $this->session->data['user_token'] . '&type=total');
 
         $data['total_ps_bank_transfer_fee_fee'] = $this->config->get('total_ps_bank_transfer_fee_fee');
-        $data['total_ps_bank_transfer_fee_tax_class_id'] = $this->config->get('total_ps_bank_transfer_fee_tax_class_id');
+        $data['total_ps_bank_transfer_fee_tax_class_id'] = (int) $this->config->get('total_ps_bank_transfer_fee_tax_class_id');
 
         $this->load->model('localisation/tax_class');
 
         $data['tax_classes'] = $this->model_localisation_tax_class->getTaxClasses();
 
-        $data['total_ps_bank_transfer_fee_status'] = $this->config->get('total_ps_bank_transfer_fee_status');
-        $data['total_ps_bank_transfer_fee_sort_order'] = $this->config->get('total_ps_bank_transfer_fee_sort_order');
+        $data['total_ps_bank_transfer_fee_status'] = (bool) $this->config->get('total_ps_bank_transfer_fee_status');
+        $data['total_ps_bank_transfer_fee_sort_order'] = (int) $this->config->get('total_ps_bank_transfer_fee_sort_order');
 
         $data['text_contact'] = sprintf($this->language->get('text_contact'), self::EXTENSION_EMAIL, self::EXTENSION_EMAIL, self::EXTENSION_DOC);
 

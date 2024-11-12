@@ -31,7 +31,7 @@
 							<div class="row mb-3 required">
 								<label for="input-fee" class="col-sm-2 col-form-label">{{ entry_fee }}</label>
 								<div class="col-sm-10">
-									<input type="text" name="total_ps_bank_transfer_fee_fee" value="{{ total_ps_bank_transfer_fee_fee }}" placeholder="{{ entry_fee }}" id="input-fee" class="form-control"/>
+									<input type="text" name="total_ps_bank_transfer_fee_fee" value="{{ total_ps_bank_transfer_fee_fee }}" placeholder="{{ entry_fee }}" id="input-fee" class="form-control">
 									<div id="error-fee" class="invalid-feedback"></div>
 								</div>
 							</div>
@@ -52,8 +52,8 @@
 								<label for="input-status" class="col-sm-2 col-form-label">{{ entry_status }}</label>
 								<div class="col-sm-10">
 									<div class="form-check form-switch form-switch-lg">
-										<input type="hidden" name="total_ps_bank_transfer_fee_status" value="0"/>
-										<input type="checkbox" name="total_ps_bank_transfer_fee_status" value="1" id="input-status" class="form-check-input"{% if total_ps_bank_transfer_fee_status %} checked{% endif %}/>
+										<input type="hidden" name="total_ps_bank_transfer_fee_status" value="0">
+										<input type="checkbox" name="total_ps_bank_transfer_fee_status" value="1" id="input-status" class="form-check-input"{% if total_ps_bank_transfer_fee_status %} checked{% endif %}>
 									</div>
 								</div>
 							</div>
@@ -61,7 +61,7 @@
 							<div class="row mb-3">
 								<label for="input-sort-order" class="col-sm-2 col-form-label">{{ entry_sort_order }}</label>
 								<div class="col-sm-10">
-									<input type="text" name="total_ps_bank_transfer_fee_sort_order" value="{{ total_ps_bank_transfer_fee_sort_order }}" placeholder="{{ entry_sort_order }}" id="input-sort-order" class="form-control"/>
+									<input type="text" name="total_ps_bank_transfer_fee_sort_order" value="{{ total_ps_bank_transfer_fee_sort_order }}" placeholder="{{ entry_sort_order }}" id="input-sort-order" class="form-control">
 								</div>
 							</div>
 
@@ -70,13 +70,13 @@
 
 							<h3>{{ heading_getting_started }}</h3>
 							{{ text_getting_started }}
-							<hr />
+							<hr>
 							<h3>{{ heading_setup }}</h3>
 							{{ text_setup }}
-							<hr />
+							<hr>
 							<h3>{{ heading_faq }}</h3>
 							{{ text_faq }}
-							<hr />
+							<hr>
 							<h3>{{ heading_contact }}</h3>
 							{{ text_contact }}
 

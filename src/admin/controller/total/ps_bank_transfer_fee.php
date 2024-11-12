@@ -46,7 +46,7 @@ class PSBankTransferFee extends \Opencart\System\Engine\Controller
         $data['save'] = $this->url->link('extension/ps_bank_transfer_fee/total/ps_bank_transfer_fee.save', 'user_token=' . $this->session->data['user_token']);
         $data['back'] = $this->url->link('marketplace/extension', 'user_token=' . $this->session->data['user_token'] . '&type=total');
 
-        $data['total_ps_bank_transfer_fee_fee'] = $this->config->get('total_ps_bank_transfer_fee_fee');
+        $data['total_ps_bank_transfer_fee_fee'] = (float) $this->config->get('total_ps_bank_transfer_fee_fee');
         $data['total_ps_bank_transfer_fee_tax_class_id'] = (int) $this->config->get('total_ps_bank_transfer_fee_tax_class_id');
 
         $this->load->model('localisation/tax_class');

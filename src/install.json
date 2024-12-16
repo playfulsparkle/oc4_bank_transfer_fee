@@ -1,5 +1,6 @@
 {
     "name": "Playful Sparkle - Bank Transfer fee",
+    "description": "",
     "code": "ps_bank_transfer_fee",
     "license": "GPL",
     "version": "1.0.1",

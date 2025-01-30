@@ -18,7 +18,7 @@ Features
 - Multilingual Support: Ready for international use with languages including
   Čeština (cs-cz), Deutsch (de-de), English (GB) (en-gb), English (US) (en-us),
   Español (es-es), Français (fr-fr), Magyar (hu-hu), Italiano (it-it),
-  Русский (ru-ru), and Slovenčina (sk-sk).
+  Русский (ru-ru), Ελληνικά (el-GR), and Slovenčina (sk-sk).
 
 For more information, visit the extension's GitHub page
 at https://github.com/playfulsparkle/oc4_bank_transfer_fee.git.

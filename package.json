@@ -1,7 +1,7 @@
 {
   "name": "oc4_bank_transfer_fee",
-  "version": "1.0.1",
-  "description": "Playful Sparkle - Bank Transfer fee for OpenCart 4",
+  "version": "1.0.2",
+  "description": "Playful Sparkle - Bank Transfer fee for OpenCart 4.x",
   "main": "index.js",
   "scripts": {
     "compress": "node compress.js"

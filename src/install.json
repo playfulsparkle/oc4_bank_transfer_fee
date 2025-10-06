@@ -1,9 +1,9 @@
 {
     "name": "Playful Sparkle - Bank Transfer fee",
-    "description": "",
+    "description": "Playful Sparkle - Bank Transfer fee for OpenCart 4.x",
     "code": "ps_bank_transfer_fee",
     "license": "GPL",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author": "Playful Sparkle",
     "link": "https://github.com/playfulsparkle/oc4_bank_transfer_fee.git"
   }

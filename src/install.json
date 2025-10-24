@@ -1,6 +1,6 @@
 {
     "name": "Playful Sparkle - Bank Transfer fee",
-    "description": "Playful Sparkle - Bank Transfer fee for OpenCart 4.x",
+    "description": "Easily add customizable Bank Transfer fees at checkout to cover transaction costs, enhancing the checkout experience without technical setup.",
     "code": "ps_bank_transfer_fee",
     "license": "GPL",
     "version": "1.0.2",

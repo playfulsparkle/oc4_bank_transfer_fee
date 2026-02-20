@@ -7,7 +7,7 @@ $_['heading_contact']                      = 'اتصل بالدعم';
 $_['text_extension']                       = 'الإضافات';
 $_['text_success']                         = 'نجاح: لقد قمت بتعديل رسوم التحويل البنكي!';
 $_['text_edit']                            = 'تعديل رسوم التحويل البنكي';
-$_['text_contact']                         = '<p>للمساعدة الإضافية، يرجى التواصل مع فريق الدعم لدينا:</p><ul><li><strong>الاتصال:</strong> <a href="mailto:%s">%s</a></li><li><strong>التوثيق:</strong> <a href="%s" target="_blank" rel="noopener noreferrer">توثيق المستخدم</a></li></ul>';
+$_['text_contact']                         = '<p>للحصول على مزيد من المساعدة، يرجى التواصل مع فريق الدعم لدينا:</p><ul><li><strong>الاتصال:</strong> <a href="mailto:%s">%s</a></li><li><strong>التوثيق:</strong> <a href="%s" target="_blank" rel="noopener noreferrer">توثيق المستخدم</a></li></ul>';
 
 // Tab
 $_['tab_general']                          = 'عام';

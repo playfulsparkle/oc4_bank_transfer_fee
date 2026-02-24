@@ -8,7 +8,7 @@ The **Playful Sparkle - Bank Transfer fee** extension for OpenCart 4.x+ allows s
 
 - **Configurable fee options**: A fixed amount can be added to the total order value.
 - **Compatibility**: Integrates smoothly with OpenCart 4.x+, supporting a range of online store setups.
-- **Multilingual Support**: Ready for international use with languages including Čeština (cs-cz), Deutsch (de-de), English (GB) (en-gb), English (US) (en-us), Español (es-es), Français (fr-fr), Magyar (hu-hu), Italiano (it-it), Русский (ru-ru), Ελληνικά (el-GR), العربية (ar), Polski (pl-pl), and Slovenčina (sk-sk).
+- **Multilingual Support**: Ready for international use with languages including العربية (ar), Български (bg), 中文(简体) (zh-cn), 中文(繁體) (zh-tw), Čeština (cs-cz), English (UK) (en-gb), English (US) (en-us), Français (fr-fr), Deutsch (de-de), Ελληνικά (el-gr), Magyar (hu-hu), Italiano (it-it), 日本語 (ja), 한국어 (ko-kr), Polski (pl-pl), Português (Brasil) (pt-br), Русский (ru-ru), Slovenčina (sk-sk), Español (es-es), and Türkçe (tr-tr).
 
 ---
 

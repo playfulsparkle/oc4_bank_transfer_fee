@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']                         = 'Playful Sparkle - Bank Transfer fee';
+$_['heading_title']                         = 'Playful Sparkle - Такса за банков превод';
 $_['heading_contact']                       = 'Контакт с поддръжката';
 
 // Text

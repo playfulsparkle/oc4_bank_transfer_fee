@@ -7,7 +7,7 @@ $_['heading_contact']                       = '联系支持';
 $_['text_extension']                        = '扩展';
 $_['text_success']                          = '成功：您已修改银行转账手续费！';
 $_['text_edit']                             = '编辑银行转账手续费';
-$_['text_contact']                          = '<p>如需进一步协助，请联系我们的支持团队：</p><ul><li><strong>联系方式:</strong> <a href="mailto:%s">%s</a></li><li><strong>文档:</strong> <a href="%s" target="_blank" rel="noopener noreferrer">用户文档</a></li></ul>';
+$_['text_contact']                          = '<p>如需进一步协助，请联系我们的支持团队：</p><ul><li><strong>支持网站：</strong> <a href="%1$s">%1$s</a></li><li><strong>GitHub 仓库：</strong> <a href="%2$s" target="_blank" rel="noopener noreferrer">%2$s</a></li><li><strong>联系支持：</strong> <a href="mailto:%3$s">%3$s</a></li></ul>';
 
 // Tab
 $_['tab_general']                           = '常规';

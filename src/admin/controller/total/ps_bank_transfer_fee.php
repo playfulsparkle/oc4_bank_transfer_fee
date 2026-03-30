@@ -13,9 +13,14 @@ class PSBankTransferFee extends \Opencart\System\Engine\Controller
     const EXTENSION_EMAIL = 'support@playfulsparkle.com';
 
     /**
-     * @var string The documentation URL for the extension.
+     * @var string The URL to the support website.
      */
-    const EXTENSION_DOC = 'https://github.com/playfulsparkle/oc4_bank_transfer_fee.git';
+    const SUPPORT_URL = 'https://support.playfulsparkle.com';
+
+    /**
+     * @var string The GitHub repository URL of the extension.
+     */
+    const GITHUB_REPO_URL = 'https://github.com/playfulsparkle/oc4_bank_transfer_fee';
 
     /**
      * @return void
@@ -58,7 +63,7 @@ class PSBankTransferFee extends \Opencart\System\Engine\Controller
         $data['total_ps_bank_transfer_fee_status'] = (bool) $this->config->get('total_ps_bank_transfer_fee_status');
         $data['total_ps_bank_transfer_fee_sort_order'] = (int) $this->config->get('total_ps_bank_transfer_fee_sort_order');
 
-        $data['text_contact'] = sprintf($this->language->get('text_contact'), self::EXTENSION_EMAIL, self::EXTENSION_EMAIL, self::EXTENSION_DOC);
+        $data['text_contact'] = sprintf($this->language->get('text_contact'), self::SUPPORT_URL, self::GITHUB_REPO_URL, self::EXTENSION_EMAIL);
 
         $data['header'] = $this->load->controller('common/header');
         $data['column_left'] = $this->load->controller('common/column_left');

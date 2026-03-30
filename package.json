@@ -8,19 +8,19 @@
   },
   "keywords": [
     "opencart",
-    "oc",
+    "opencart4",
     "playfulsparkle",
     "bank transfer",
     "fee"
   ],
   "author": "zsoltoroszlany82 <zsolt.oroszlany@playfulsparkle.com>",
   "license": "GPL",
-  "dependencies": {
-    "archiver": "^7.0.1",
-    "fs": "^0.0.1-security"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/playfulsparkle/oc4_bank_transfer_fee.git"
+  },
+  "devDependencies": {
+    "archiver": "^7.0.1",
+    "fs": "^0.0.1-security"
   }
 }

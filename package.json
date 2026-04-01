@@ -9,8 +9,12 @@
   "keywords": [
     "opencart",
     "opencart4",
+    "opencart-extension",
     "playfulsparkle",
-    "bank transfer",
+    "bank-transfer",
+    "bank-transfer-fee",
+    "payment-fee",
+    "checkout-fee",
     "fee"
   ],
   "author": "zsoltoroszlany82 <zsolt.oroszlany@playfulsparkle.com>",
